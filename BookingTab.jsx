@@ -1,10 +1,3 @@
-// ─────────────────────────────────────────────
-//  OWNER: Person 3
-//  FILE:  src/components/BookingTab.jsx
-//  DESC:  "Book Appointment" tab — booking form and live wait-time panel.
-//         Props: { patients, onBook }
-// ─────────────────────────────────────────────
-
 import { useState } from "react";
 import { SERVICES, CLINICS, TIME_SLOTS } from "../constants";
 
